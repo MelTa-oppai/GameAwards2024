@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27Chaos",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Shader",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Effekseer",
+			"Enabled": true
+		},
+		{
+			"Name": "effekseer_plg",
+			"Enabled": false
+		}
+	]
+}
