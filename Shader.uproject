@@ -12,10 +12,6 @@
 	],
 	"Plugins": [
 		{
-			"Name": "Effekseer",
-			"Enabled": true
-		},
-		{
 			"Name": "effekseer_plg",
 			"Enabled": false
 		}
